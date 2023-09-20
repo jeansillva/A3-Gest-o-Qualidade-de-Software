@@ -1,1 +1,1 @@
-# A3-Gest-o-Qualidade-de-Software
+# A3 Gestão Qualidade de Software
